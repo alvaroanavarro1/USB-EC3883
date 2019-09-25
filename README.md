@@ -48,4 +48,7 @@ Para el miércoles  de la semana 3 deben estar listas las siguientes actividades
 01 | xxxxx xxxx | xx-xxxxx | xxx
 01 | xxxxx xxxx | xx-xxxxx | xxx
 02 | xxxxx xxxx | xx-xxxxx | xxx
-02 | xxxxx xxxx | xx-xxxxx | xxx
+03 | xxxxx xxxx | xx-xxxxx | xxx
+04 | xxxxx xxxx | xx-xxxxx | xxx
+05 | Alvaro Navarro | 13-10968 | [@alvaroanavarro1](https://github.com/alvaroanavarro1) 
+05 | xxxxx xxxx | xx-xxxxx | xxx
