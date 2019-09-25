@@ -51,3 +51,5 @@ Para el miércoles  de la semana 3 deben estar listas las siguientes actividades
 02 | xxxxx xxxx | xx-xxxxx | xxx
 04 | Gianluque De Simone | 12-11412 | [@Gianluque](https://github.com/Gianluque)
 04 | Marco Arroyo | 08-10073 | [@Marco](https://github.com/githubdemarco)
+05 | Alvaro Navarro | 13-10968 | [@alvaroanavarro1](https://github.com/alvaroanavarro1)
+05 | Anderson Contreras | 16-11350 | [@AMCA15](https://github.com/AMCA15)
